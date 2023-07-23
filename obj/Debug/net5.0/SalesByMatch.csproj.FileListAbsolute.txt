@@ -1,0 +1,16 @@
+E:\0_Work\HackerRank\SalesByMatch\bin\Debug\net5.0\SalesByMatch.exe
+E:\0_Work\HackerRank\SalesByMatch\bin\Debug\net5.0\SalesByMatch.deps.json
+E:\0_Work\HackerRank\SalesByMatch\bin\Debug\net5.0\SalesByMatch.runtimeconfig.json
+E:\0_Work\HackerRank\SalesByMatch\bin\Debug\net5.0\SalesByMatch.runtimeconfig.dev.json
+E:\0_Work\HackerRank\SalesByMatch\bin\Debug\net5.0\SalesByMatch.dll
+E:\0_Work\HackerRank\SalesByMatch\bin\Debug\net5.0\ref\SalesByMatch.dll
+E:\0_Work\HackerRank\SalesByMatch\bin\Debug\net5.0\SalesByMatch.pdb
+E:\0_Work\HackerRank\SalesByMatch\obj\Debug\net5.0\SalesByMatch.csprojAssemblyReference.cache
+E:\0_Work\HackerRank\SalesByMatch\obj\Debug\net5.0\SalesByMatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\0_Work\HackerRank\SalesByMatch\obj\Debug\net5.0\SalesByMatch.AssemblyInfoInputs.cache
+E:\0_Work\HackerRank\SalesByMatch\obj\Debug\net5.0\SalesByMatch.AssemblyInfo.cs
+E:\0_Work\HackerRank\SalesByMatch\obj\Debug\net5.0\SalesByMatch.csproj.CoreCompileInputs.cache
+E:\0_Work\HackerRank\SalesByMatch\obj\Debug\net5.0\SalesByMatch.dll
+E:\0_Work\HackerRank\SalesByMatch\obj\Debug\net5.0\ref\SalesByMatch.dll
+E:\0_Work\HackerRank\SalesByMatch\obj\Debug\net5.0\SalesByMatch.pdb
+E:\0_Work\HackerRank\SalesByMatch\obj\Debug\net5.0\SalesByMatch.genruntimeconfig.cache
